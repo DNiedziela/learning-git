@@ -17,3 +17,5 @@ print(spotegowane)
 # drukuje obie liczby
 
 # kolejny commit dla obycia
+
+# jeszcze kolejny just to see the difference
