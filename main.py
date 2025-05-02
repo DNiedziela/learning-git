@@ -15,3 +15,5 @@ for i in podzielne:
 print(podzielne)
 print(spotegowane)
 # drukuje obie liczby
+
+# kolejny commit dla obycia
