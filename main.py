@@ -18,4 +18,4 @@ print(spotegowane)
 
 # kolejny commit dla obycia
 
-# jeszcze kolejny just to see the difference
+# jeszcze kolejny just to see the difference!
