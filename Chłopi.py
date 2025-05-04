@@ -6097,3 +6097,4 @@ print(f"""O =  {number_of_o}""")
 print(f"""U =  {number_of_u}""")
 print(f"""Y =  {number_of_y}""")
 
+print("Pozdrawiam serdecznie mentora Rafała")
