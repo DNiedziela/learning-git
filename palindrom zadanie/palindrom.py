@@ -1,6 +1,6 @@
 def is_palindrome(word):
     word = word.lower()
-    letters_only = ''.join(char for char in word if char.isalpha())
+    letters_only = ''.join(char for char in word if char.isalnum())
     return letters_only == letters_only[::-1]
     
   
